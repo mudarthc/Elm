@@ -26,4 +26,6 @@ I used the different features of elm to create a web app that i thought used the
 # Run App 
 1. To run app dowload git repo 
 2. In terminal install elm : `npm install -g elm` 
-3.  Enter `elm make 
+3.  Enter `elm make WebApp.elm` 
+4. Run `elm reactor` 
+5. On the website `http://localhost:8000/` you will find the WebApp running
