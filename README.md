@@ -23,3 +23,7 @@ Using elm was challenging because it is a pure functional language. Therefore it
 # How I Overcame 
 I used the different features of elm to create a web app that i thought used the functional language in a unique way. I used the functional aspects of elm to create the line through recursion.
 
+# Run App 
+1. To run app dowload git repo 
+2. In terminal install elm : `npm install -g elm` 
+3.  Enter `elm make 
